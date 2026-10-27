@@ -13,3 +13,5 @@ Fawzia Esawi
 12324291
 
 # Wiring diagram
+Items in the screenshot folder
+
