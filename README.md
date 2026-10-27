@@ -13,5 +13,5 @@ Fawzia Esawi
 12324291
 
 # Wiring diagram
-Items in the screenshot folder
+The Wokwi circuit schematic is available in `diagram.json`.
 
